@@ -1,0 +1,3 @@
+[submodule "fakeip"]
+	path = fakeip
+	url = https://github.com/Oreeeee/fakeip
