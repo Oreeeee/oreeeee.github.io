@@ -1,3 +1,6 @@
 [submodule "fakeip"]
 	path = projects/fakeip
 	url = https://github.com/Oreeeee/fakeip
+[submodule "projects/osu-patched-builds"]
+	path = projects/osu-patched-builds
+	url = https://github.com/Oreeeee/osu-patched-builds
